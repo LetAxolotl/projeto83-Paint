@@ -1,0 +1,12 @@
+body {
+    background-image:url("5952097.jpg") ;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+#myCanvas {
+    border-width: 10px;
+    border-color: rgb(255, 0, 0);
+    border-style: dotted ;
+    background-color:lavender;
+}
